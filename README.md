@@ -1,1 +1,2 @@
-# Finals-Task-3.-Using-MYSQL-Clause
+# Finals Task 3.1 - Using MYSQL Clause
+
